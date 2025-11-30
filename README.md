@@ -1,27 +1,39 @@
-# Algatransito-api
 A backend project developed for the Algaworks Spring Boot course.
 This API manages traffic-related operations such as vehicles, owners, and occurrences, following modern REST and clean architecture practices.
 
 🚀 Technologies
 
 Java 17+
+
 Spring Boot 3
+
 Spring Web / Spring Data JPA / Validation
+
 Flyway
-H2 / PostgreSQL
+
+H2 / MySQL / PostgreSQL
+
 Maven
+
 Lombok
 
-Features
+🧩 Features
+
 Vehicle management (CRUD)
+
 Owner management (CRUD)
+
 Traffic occurrences and fines
+
 Validation and error handling
+
 DTOs, services, repositories, exception handling
+
 Database migrations with Flyway
 
-Running the Project
+📦 Running the Project
 mvn spring-boot:run
+
 
 Or run via IntelliJ.
 

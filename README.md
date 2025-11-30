@@ -1,2 +1,2 @@
 # Algatransito-api
-A Spring project from the course of Algaworks
+A Spring boot project from the course of Algaworks
